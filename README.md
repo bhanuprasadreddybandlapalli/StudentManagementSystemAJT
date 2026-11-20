@@ -18,20 +18,7 @@ The system aims to reduce manual record management, improve data organization, s
 
 ---
 
-## 🎯 Project Objectives
 
-The main objectives of the Student Management System are:
-
-- To develop a web-based student management application.
-- To maintain student information in a centralized database.
-- To manage department-related information.
-- To store and manage students' academic marks.
-- To implement secure login and logout functionality.
-- To perform database operations using JDBC.
-- To understand Java Servlets and JSP.
-- To implement session management in web applications.
-- To develop a user-friendly web interface.
-- To demonstrate the practical implementation of Advanced Java concepts.
 
 ---
 
@@ -566,13 +553,7 @@ B.Tech – Computer Engineering
 
 [Student Management System AJT](https://github.com/jaswanthbogathi/StudentManagementSystemAJT)
 
----
 
-## 📜 License
 
-This project was developed for academic and educational purposes.
 
----
-
-⭐ **If you find this project useful, consider giving the repository a star!**
 
